@@ -1,0 +1,24 @@
+{
+  "name": "DDC",
+  "logoURI": "https://www.xxxxxxxxxxxx/ddc_SAI.svg",
+  "keywords": [
+      "DDC",
+      "DEFI",
+    ],
+    "timestamp": "2020-10-14T11:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xe8a754879f105d3dc94dd8f5f4ea20ad9a1e0ea5",
+      "name": "DDC",
+      "symbol": "DDC",
+      "decimals": 18,
+      "logoURI": "https://www.xxxxxxxxxxxx/ddc_SAI.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
